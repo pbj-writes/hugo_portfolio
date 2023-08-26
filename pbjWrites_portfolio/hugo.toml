@@ -3,3 +3,45 @@ languageCode = 'en-us'
 title = 'PBJ Writes'
 theme = 'paige'
 path = "github.com/willfaught/paige"
+
+#menu
+[languages.en]
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "mystory"
+name = "My Story"
+url = "/content/mystory"
+weight = 20
+
+[[languages.en.menu.main]]
+identifier = "resume"
+name = "Resume"
+url = "/content/resume/"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "portfolio"
+name = "Portfolio"
+url = "/content/portfolio/"
+weight = 20
+
+[languages.en.menu.main.params.paige]
+divider_below = true
+
+
+[languages.en.menu.main.params.paige]
+disabled = true
+
+
+[[languages.en.menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 40
