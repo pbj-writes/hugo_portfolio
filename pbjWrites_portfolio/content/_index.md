@@ -1,0 +1,36 @@
+---
+title: "PBJ Writes"
+description: "PBJ Writes ✍🏻, Cycles 🚲, Works 🖥️."
+
+paige:
+  style: |
+    #paige-title {
+        font-size: 5rem;
+    }
+  color: "#6831f5"
+---
+<br>
+
+{{< paige/image
+    breakpoints=false
+    fetchpriority=""
+    maxwidth="20"
+    src="../assets/writing.jpeg" >}} 
+---
+
+<p class="display-5 fw-bold h2 text-center">A personal space.</p>
+<br>
+<br>
+<div class="column-gap-3 d-flex display-6 justify-content-center mb-3">
+{{< paige/image link= "https://www.linkedin.com/in/pbjwrites/" maxwidth="2.5rem" src="../assets/li.png" >}} 
+{{< paige/icon class="bi bi-github" name="GitHub" url="https://github.com/pbj-writes/hugo_portfolio/" >}}
+{{< paige/image height="3rem" link= "https://zwiftpower.com/profile.php?z=1783696" src="https://zwiftpower.com/zp_logo.png" >}}
+
+   <style>
+  .strava-badge- { display: inline-block; height: 48px; }
+  .strava-badge- img { visibility: hidden; height: 48px; }
+  .strava-badge-:hover { background-position: 0 -63px; }
+  .strava-badge-follow { height: 48px; width: 48px; background: url(//badges.strava.com/echelon-sprite-48.png) no-repeat 0 0; }
+</style>
+<a href="https://strava.com/athletes/8610265" class="strava-badge- strava-badge-follow" target="_blank"><img src="//badges.strava.com/echelon-sprite-48.png" alt="Strava" /></a>
+</div>             

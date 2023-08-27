@@ -1,10 +1,21 @@
 baseURL = 'http://example.org/'
+copyright = '© PBJ'
 languageCode = 'en-us'
 title = 'PBJ Writes'
+timezone = 'America/Los_Angeles'
 theme = 'paige'
-path = "github.com/willfaught/paige"
+titlecasestyle = "Go"
+enablerobotstxt = true
 
-#menu
+[outputs]
+home = ["html", "json", "rss"]
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+noClasses = false
+
 [languages.en]
 weight = 10
 
@@ -17,31 +28,20 @@ weight = 10
 [[languages.en.menu.main]]
 identifier = "mystory"
 name = "My Story"
-url = "/content/mystory"
+url = "/mystory/"
 weight = 20
 
 [[languages.en.menu.main]]
 identifier = "resume"
 name = "Resume"
-url = "/content/resume/"
+url = "/resume/"
 weight = 10
 
 [[languages.en.menu.main]]
 identifier = "portfolio"
 name = "Portfolio"
-url = "/content/portfolio/"
+url = "/portfolio/"
 weight = 20
 
 [languages.en.menu.main.params.paige]
 divider_below = true
-
-
-[languages.en.menu.main.params.paige]
-disabled = true
-
-
-[[languages.en.menu.main]]
-identifier = "search"
-name = "Search"
-url = "/search/"
-weight = 40
