@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <atom:link href="https://pbjwrites.info/mystory/index.xml" rel="self" type="application/rss+xml"/>
+        
+        
+            <copyright>© PBJ</copyright>
+        
+        <description>PBJ Writes</description>
+        
+            <language>en</language>
+        
+        
+        <link>https://pbjwrites.info/mystory/</link>
+        
+        
+            <title>PBJ Writes</title>
+        
+        
+        
+    </channel>
+</rss>
