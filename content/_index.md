@@ -18,7 +18,6 @@ paige:
     src="../assets/writing.jpeg" >}} 
 ---
 <br>
-<br>
 <div class="column-gap-3 d-flex display-6 justify-content-center mb-3">
 {{< paige/image link= "https://www.linkedin.com/in/pbjwrites/" maxwidth="2.5rem" src="../assets/li.png" >}} 
 {{< paige/icon class="bi bi-github" name="GitHub" url="https://github.com/pbj-writes/hugo_portfolio/" >}}
