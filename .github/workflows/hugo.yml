@@ -32,7 +32,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.114.0
-    dir: ~/pbjWrites_portfolio
     steps:
       - name: Install Hugo CLI
         run: |
