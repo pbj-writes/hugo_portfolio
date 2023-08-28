@@ -17,8 +17,6 @@ paige:
     maxwidth="20"
     src="../assets/writing.jpeg" >}} 
 ---
-
-<p class="display-5 fw-bold h2 text-center">A personal space.</p>
 <br>
 <br>
 <div class="column-gap-3 d-flex display-6 justify-content-center mb-3">

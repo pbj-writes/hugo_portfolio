@@ -14,8 +14,6 @@
 .paige-keywords,
 .paige-reading-time,
 .paige-series,
-.paige-summary,
-.paige-sections,
-.paige-collections {
+.paige-summary {
     display: none;
 }

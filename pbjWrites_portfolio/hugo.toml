@@ -41,7 +41,67 @@ weight = 10
 identifier = "portfolio"
 name = "Portfolio"
 url = "/portfolio/"
-weight = 20
+weight = 14
+
+[[languages.en.menu.main]]
+identifier = "portfolio"
+name = "Portfolio"
+url = "/portfolio/"
+weight = 14
+
+[[languages.en.menu.main]]
+identifier = "templates"
+name = "templates"
+parent = "portfolio"
+url = "/portfolio/word_templates/"
+weight = 15
 
 [languages.en.menu.main.params.paige]
 divider_below = true
+
+[[languages.en.menu.main]]
+identifier = "how-to"
+name = "how-to"
+parent = "portfolio"
+url = "/portfolio/how-to/"
+weight = 16
+
+[languages.en.menu.main.params.paige]
+divider_below = true
+
+[[languages.en.menu.main]]
+identifier = "video_instructions"
+name = "Video Instructions"
+parent = "portfolio"
+url = "/portfolio/video_instructions/"
+weight = 17
+
+[languages.en.menu.main.params.paige]
+divider_below = true
+
+[[languages.en.menu.main]]
+identifier = "editing_samples"
+name = "Editing Samples"
+parent = "portfolio"
+url = "/portfolio/editing_samples/"
+weight = 18
+
+[languages.en.menu.main.params.paige]
+divider_below = true
+
+[[languages.en.menu.main]]
+identifier = "diagram_samples"
+name = "Diagram Samples"
+parent = "portfolio"
+url = "/portfolio/diagram_samples/"
+weight = 19
+
+[languages.en.menu.main.params.paige]
+divider_below = true
+
+[[languages.en.menu.main]]
+identifier = "style_guide_sample"
+name = "Style Guide Sample"
+parent = "portfolio"
+url = "/portfolio/style_guide_sample/"
+weight = 20
