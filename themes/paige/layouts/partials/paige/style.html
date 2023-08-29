@@ -96,6 +96,10 @@ body, html {
     {{ partial "paige/dark.css" $page | safeCSS }}
 }
 
+@media (prefers-color-scheme: light) {
+    {{ partial "paige/dark.css" $page | safeCSS }}
+}
+
 @media (prefers-reduced-motion: reduce) {
     .paige-header-link {
         transition: none;
