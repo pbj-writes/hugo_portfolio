@@ -14,8 +14,8 @@ paige:
 {{< paige/image
     breakpoints=false
     fetchpriority=""
-    maxwidth="20"
-    src="../assets/writing.jpeg" >}} 
+    width="40rem"
+    src="../assets/writing2.jpg" >}} 
 ---
 <br>
 <div class="column-gap-3 d-flex display-6 justify-content-center mb-3">

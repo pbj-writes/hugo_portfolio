@@ -19,7 +19,7 @@ th, td {
 </head>
 
 ## <font style="color:#6831f5">Summary</font>
-Senior <b>technical writer</b> with DevOps, data science, and QA tendancies seeking a company that aspires to change the world through innovation and sustainability.
+Senior <b>technical writer</b> with DevOps, data science, and QA experience seeking a company that aspires to change the world through innovation and sustainability.
 
 ## <font style="color:#6831f5">Experience</font>
 
