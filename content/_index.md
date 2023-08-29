@@ -1,6 +1,6 @@
 ---
-title: "PBJ Writes"
-description: "PBJ Writes ✍🏻, Cycles 🚲, Works 🖥️."
+title: "PBJ Writes ✍🏻"
+description: "Cycles 🚲 and Works  🖥️"
 
 paige:
   style: |
