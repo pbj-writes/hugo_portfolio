@@ -51,7 +51,7 @@ weight = 14
 
 [[languages.en.menu.main]]
 identifier = "templates"
-name = "templates"
+name = "Templates"
 parent = "portfolio"
 url = "/portfolio/word_templates/"
 weight = 15
@@ -61,7 +61,7 @@ divider_below = true
 
 [[languages.en.menu.main]]
 identifier = "how-to"
-name = "how-to"
+name = "How-to"
 parent = "portfolio"
 url = "/portfolio/how-to/"
 weight = 16

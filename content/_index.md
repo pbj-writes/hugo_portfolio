@@ -1,7 +1,4 @@
 ---
-title: "PBJ Writes ✍🏻"
-description: "Cycles 🚲 and Works  🖥️"
-
 paige:
   style: |
     #paige-title {
@@ -17,6 +14,7 @@ paige:
     width="40rem"
     src="../assets/writing2.jpeg" >}} 
 ---
+<p><font size="5"><center>Cycles 🚲 and Works  🖥️</center></font> </p>
 <br>
 <div class="column-gap-3 d-flex display-6 justify-content-center mb-3">
 {{< paige/image link= "https://www.linkedin.com/in/pbjwrites/" maxwidth="2.5rem" src="../assets/li.png" >}} 

@@ -2,6 +2,23 @@
 paige:
   color: "#6831f5"
 ---
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  text-align: left;
+  vertical-align: top;
+}
+th, td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+</style>
+</head>
 
 ## PBJ the Athlete
 ### Basketball🏀
@@ -12,8 +29,7 @@ My first love was basketball. Basketball taught me that when I put in the time a
 By college, I knew that my basketball path was over, and I transitioned into triathlon. I learned quickly that I didn't like swimming, but I found cycling. Since college, my obsession has grown to a full-blown compulsion. And more and more of my time is spent training, watching races, and learning about the latest tools and gear. My compulsion is at the point to where my partner thinks that I should merge my compulsion with my career.
 |    Learning   | Riding | Racing |
 | ----------- | --------- | --------- |
-|{{< paige/image maxwidth="15rem" src="../assets/cycling.jpeg" >}}              |{{< paige/image maxwidth="15rem" src="../assets/cycling2.jpeg" >}}           | {{< paige/image maxwidth="12rem" src="../assets/cycling1.jpeg" >}}          |
-
+|{{< paige/image maxwidth="15rem" src="../assets/cycling.jpeg" >}}              |{{< paige/image maxwidth="15rem" src="../assets/cycling2.jpeg" >}}           | {{< paige/image maxwidth="12rem" src="../assets/cycling1.jpeg" >}}          |<p></p><p></p>
 <details><summary>Cycling Exploits</summary>
 
 |    Climbs   | Centuries |
