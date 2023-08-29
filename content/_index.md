@@ -15,7 +15,7 @@ paige:
     breakpoints=false
     fetchpriority=""
     width="40rem"
-    src="../assets/writing2.jpg" >}} 
+    src="../assets/writing2.jpeg" >}} 
 ---
 <br>
 <div class="column-gap-3 d-flex display-6 justify-content-center mb-3">
