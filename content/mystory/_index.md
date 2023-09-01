@@ -22,7 +22,7 @@ th, td {
 
 ## PBJ the Athlete
 ### Basketball🏀
-My first love was basketball. Basketball taught me that when I put in the time and effort that success will follow. I have carried this lesson into all aspects of my life. 
+My first love was basketball. Basketball taught me that when I put in the time and effort that success will follow. I have carried this lesson into all aspects of my life.<br> 
 {{< paige/image maxwidth="15rem" src="../assets/basketball.jpeg" >}} 
 
 ### Cycling🚲
@@ -67,5 +67,5 @@ As a technical writer, testing and QA is a key part of the profession. Some of m
 - review localized versions of user interfaces
 - adapt automated test scripts
 - write test cases
-- cleanup code
+- clean up code
 - query data
