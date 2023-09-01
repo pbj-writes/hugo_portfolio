@@ -35,6 +35,9 @@ June 2021 - present | Los Angeles, CA
 
 <b>ACCOMPLISHMENTS</b>
 
+- Shipped help docs for three major releases and several hotfixes for multiple products since June 2021
+- Completed projects to add a Jira dashboard for all Tech Pubs writers and to document Lucidchart processes
+
 #### <b>Lead Technical Writer</b>
 November 2019 - June 2021 | Can Rafael, CA / Fairfax, VA
 <br>
@@ -48,8 +51,9 @@ November 2019 - June 2021 | Can Rafael, CA / Fairfax, VA
 
 <b>ACCOMPLISHMENTS</b>
 
+- Wrote and delivered 11 user documentation help sets on aggressive schedules
 - Implemented text library best practices for our software UI to enable future localization
-- Gained team buy-in to Jira by taking initiative to drive scrum and planning meetings until team leaders felt comfortable driving meetings with the tool
+- Gained team buy-in for Jira by taking initiative to drive scrum and planning meetings until team leaders felt comfortable driving meetings with the tool
 - Recognized by a team Program Director: …able to quickly grasp and adapt to the Xpress (Insight) delivery methodology (Jira, SVN, Git), supporting in all stages of the project, including assisting with testing and training the end-users…This award is a recognition of commitment and enthusiasm that PBJ brings to the team.
 - Recognized by a team Technical Architect: …contributions on creating excellent and informative documentation for the Xpress based solutions delivered to clients…In addition, PBJ has taken the ownership of managing the Jira projects and volunteered to put together extensive ‘How to’ guides for using Bitbucket, Jira, Docker, etc.
 - Recognized by a team developer: PBJ is an ideal team-player, always making you feel important, and always leaning forward. His desire to improve existing processes and move our documentation and testing procedures into the future, have been a major factor in FICO’s success.
@@ -84,7 +88,7 @@ April 2014 - January 2016 | Niskayuna, NY
 <b>ACCOMPLISHMENTS</b>
 
 - Earned the most active and complex technical manual assignment as Lead Editor after three months of employment
-- Edited and issued five routine manual changes and one expedited manual change that met submarine milestone dates
+- Edited and issued five routine manual help system changes and one expedited manual change that met submarine milestone dates
 
 ### <font style="color:#EBB9EF">Florida International University (FIU)</font>
 June 2011 - January 2014 | Miami, FL
@@ -115,11 +119,11 @@ June 2011 - January 2014 | Miami, FL
 
 |<b>TOOL GROUP</b>|<b>TOOLS</b>|
 |-|-|
-|<b>Authoring Tools</b>  |SGML, HTML, XML, oXygen® XML Editor, ArborText Editor, XMetaL® XML Editor, SDL LiveContent Architect, SDL Tridion Docs, Notepad++, Microsoft® Office, Bluebeam® Revu®, Snagit®, Camtasia®, Markdown|
-|<b>Collaboration Tools</b> |Bitbucket®, GitHub, SharePoint, Jive, LibGuides, IBM® Jazz®, Jira®, Smartsheet, Box, Miro|
+|<b>Authoring Tools</b>  |XML, oXygen® XML Editor, ArborText Editor, XMetaL® XML Editor, SDL LiveContent Architect, SDL Tridion Docs, Notepad++, Microsoft® Office, Bluebeam® Revu®, Snagit®, Camtasia®, Markdown|
+|<b>Collaboration Tools</b> |Bitbucket®, GitHub, SharePoint, Jive, LibGuides, IBM® Jazz®, Jira®, Smartsheet, Box, OneDrive, Miro|
 |<b>Data Tools</b> |Microsoft® SQL Server®, Oracle® database solutions, Microsoft® Access®, Alchemy, MySQL|
-|<b>Design Tools</b> |Adobe® Photoshop®, Adobe® InDesign®, Adobe® Illustrator®, Adobe® Acrobat Pro, Microsoft® Visio®, LucidChart, Pencil|
-|<b>Developer Tools</b> |Visual Studio Code, JavaScript (basic knowledge), Git, Royal TSX, Docker|
+|<b>DevOps Tools</b> |Jenkins, GitHub Actions, YAML, Royal TSX, Docker |
+|<b>Developer Tools</b> |Visual Studio Code, JavaScript (basic knowledge), Git, Visual Display Language (VDL)|
 
 ## <font style="color:#6831f5">Contact</font>
 415-746-9181
