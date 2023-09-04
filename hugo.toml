@@ -31,6 +31,26 @@ name = "My Story"
 url = "/mystory/"
 weight = 20
 
+[languages.en.menu.main.params.paige]
+divider_below = true
+
+[[languages.en.menu.main]]
+identifier = "pbjtheathlete"
+name = "PBJ the Athlete"
+parent ="mystory"
+url = "/mystory/pbj_the_athlete"
+weight = 22
+
+[[languages.en.menu.main]]
+identifier = "pbjtheprofessional"
+name = "PBJ the Professional"
+parent ="mystory"
+url = "/mystory/pbj_the_professional"
+weight = 21
+
+[languages.en.menu.main.params.paige]
+divider_below = true
+
 [[languages.en.menu.main]]
 identifier = "resume"
 name = "Resume"
