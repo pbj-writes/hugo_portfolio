@@ -11,7 +11,7 @@ paige:
 {{< paige/image
     breakpoints=false
     fetchpriority=""
-    width="40rem"
+    width="32rem"
     src="../assets/writing.JPG" >}} 
 ---
 <p><font size="5"><center>Cycles 🚲 and Works  🖥️</center></font> </p>
