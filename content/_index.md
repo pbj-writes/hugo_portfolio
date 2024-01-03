@@ -12,7 +12,7 @@ paige:
     breakpoints=false
     fetchpriority=""
     width="40rem"
-    src="../assets/writing.jpg" >}} 
+    src="../assets/writing.JPG" >}} 
 ---
 <p><font size="5"><center>Cycles 🚲 and Works  🖥️</center></font> </p>
 <br>
