@@ -72,12 +72,12 @@ January 2016 - July 2017 | Rosslyn, VA
 <br>
 <b>KEY PROJECTS</b>
 
-- Created and managed project plans and allocated engineering resources to develop an Android compatible mobile application that collects patient data and integrates into Army mobile devices as part of a multi-billion-dollar defense contract to acquire a new electronic health record system for millions of active-duty military members and their dependents
-- Leveraged information system expertise to collaborate with engineering teams to address problem that only 10% of deployed military member patient data is currently captured and retained in permanent health record which correlates to low health outcomes for veterans
+- Created and managed project plans and allocated engineering resources to develop an Android-compatible mobile application that collects patient data and integrates into Army mobile devices as part of a multi-billion-dollar defense contract to acquire a new electronic health record system for millions of active-duty military members and their dependents
+- Leveraged information system expertise to collaborate with engineering teams to address a problem that only 10% of deployed military member patient data is currently captured and retained in permanent health records which correlates to low health outcomes for veterans
 - Provided analysis and documentation of a technology transition plan that details how electronic health record system functional gaps are mitigated with technologies acquired from external sources and developmental organizations
 
 <b>ACCOMPLISHMENTS</b>
-- Recognized by Contract Program Manager for superior support to engineering team, the Mobile computing capability Memorandum of Understanding, and technical writing support to the Test and Evaluation Master Plan.
+- Recognized by Contract Program Manager for superior support to the engineering team, the Mobile computing capability Memorandum of Understanding, and technical writing support to the Test and Evaluation Master Plan
 
 ---
 
@@ -90,7 +90,7 @@ April 2014 - January 2016 | Niskayuna, NY
 
 - Managed Reactor Plant Manual (RPM) revision cycle using an XML authoring tool for an active construction submarine fleet on a Navy and Department of Energy contract as the single point of contact
 - Led initiative to replace a legacy database with an Oracle<sup>®</sup> 11g database enabled with expanded read/write permissions, a reporting tool, a data auditing tool, and improved usability as assessed by rigorous user testing
-- Established and enforced data entry best practices to maintain data integrity in order to accommodate submarine milestones
+- Established and enforced data entry best practices to maintain data integrity to accommodate submarine milestones
 - Performed routine data cleansing to maintain interoperability between legacy and new data
 
 <b>ACCOMPLISHMENTS</b>
@@ -107,13 +107,13 @@ June 2011 - January 2014 | Miami, FL
 <b>KEY PROJECTS</b>
 
 - Designed and implemented FIU's Electronic Thesis and Dissertation ([ETD](https://library.fiu.edu/etd)) program
-- Analyzed metrics such as editorial errors, YouTube views, ETD page views, and ETD template downloads over time to track success of varying student resource types, publication timing, and other factors, to identify gaps in the ETD training program
+- Analyzed metrics such as editorial errors, YouTube views, ETD page views, and ETD template downloads over time to track the success of varying student resource types, publication timing, and other factors, to identify gaps in the ETD training program
 - Engaged 400+ graduate students through YouTube screencasts and online and in-person seminars
 - Reviewed 50 ETDs of graduate students per semester to provide feedback on compliance with publication standards
 
 <b>ACCOMPLISHMENTS</b>
 
-- Decreased ETD draft submission errors by ```47%``` through corrective measures executed after discovery of training gaps from data analysis
+- Decreased ETD draft submission errors by ```47%``` through corrective measures executed after the discovery of training gaps from data analysis
 - Earned the 2012 FIU Sustainability Award for improving institutional efficiency
 - Presented at the USetdA conference to demonstrate how data analytics can contribute to the success of ETD training programs
 
