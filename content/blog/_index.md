@@ -22,7 +22,6 @@ paige:
     .paige-summary {
         display: block;
     }
-series: ["PBJ Writes Blog"]
 tags: ["blog"]
 title: "Blog"
 ---
