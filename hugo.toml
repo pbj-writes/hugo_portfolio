@@ -125,3 +125,12 @@ name = "Style Guide Sample"
 parent = "portfolio"
 url = "/portfolio/style_guide_sample/"
 weight = 20
+
+[languages.en.menu.main.params.paige]
+divider_below = true
+
+[[languages.en.menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
+weight = 10
