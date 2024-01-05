@@ -46,13 +46,12 @@ June 2021 - present | Los Angeles, CA
 #### <b>Technical Writer</b> -> <b>Lead Technical Writer</b>
 July 2017 - June 2021 | San Rafael, CA / Fairfax, VA
 <br>
-<br>
-<p><b>KEY PROJECTS</b>
+<b>KEY PROJECTS</b>
 
 - Wrote design, user, and training documentation for [optimization](https://www.fico.com/en/products/fico-xpress-optimization) software deliveries on rapid client-defined timelines as part of small software delivery teams
 - Authored SOPs for internal team processes and tool adoption (e.g., code spellcheck checklist, Getting Started with Bitbucket, Getting Started with Docker, Managing Jenkins, and more)
 - Participated with the FICO Tech Pubs group to improve processes, test new documentation portal system, and test CMS upgrade from SDL Live Content Architect (2014) to SDL Tridion Docs (2020)
-- Executed DevOps tasks (Docker, Jenkins, Jira, cloud server management, and user access)</p>
+- Executed DevOps tasks (Docker, Jenkins, Jira, cloud server management, and user access)
 
 <b>ACCOMPLISHMENTS</b>
 
