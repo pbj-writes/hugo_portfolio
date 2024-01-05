@@ -2,6 +2,8 @@
 description: "PBJ Writes Blog"
 title: "Blog"
 paige:
+  file_link:
+    disable: false
   style: |
     #paige-authors,
     #paige-date,
