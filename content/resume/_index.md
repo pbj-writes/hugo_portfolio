@@ -30,8 +30,8 @@ Senior <b>technical writer</b> with DevOps, data science, and QA experience seek
 #### <b>Lead Technical Writer</b>
 June 2021 - present | Los Angeles, CA
 <br>
+<br>
 <b>KEY PROJECTS</b>
-
 - Write documentation for the cutting-edge cloud-based [FICO<sup>®</sup> Platform](https://www.fico.com/en/fico-platform)
 - Wrote documentation for the [FICO<sup>®</sup> Identity Resolution Engine](https://www.fico.com/en/latest-thinking/solution-sheet/fico-identity-resolution-engine) and [FICO<sup>®</sup> Application Fraud Manager](https://www.fico.com/en/solutions/application-fraud) products 
 - Chair the technical publications and localization department's process committee since March 2022
@@ -45,6 +45,7 @@ June 2021 - present | Los Angeles, CA
 
 #### <b>Technical Writer</b> -> <b>Lead Technical Writer</b>
 July 2017 - June 2021 | San Rafael, CA / Fairfax, VA
+<br>
 <br>
 <b>KEY PROJECTS</b>
 
@@ -69,6 +70,7 @@ July 2017 - June 2021 | San Rafael, CA / Fairfax, VA
 Assigned to the Joint Operational Medicine Information Systems ([JOMIS](https://www.health.mil/Reference-Center/Fact-Sheets/2023/03/23/PEO-DHMS-Fact-Sheet-JOMIS)) program for the Department of Defense
 January 2016 - July 2017 | Rosslyn, VA
 <br>
+<br>
 <b>KEY PROJECTS</b>
 
 - Created and managed project plans and allocated engineering resources to develop an Android-compatible mobile application that collects patient data and integrates into Army mobile devices as part of a multi-billion-dollar defense contract to acquire a new electronic health record system for millions of active-duty military members and their dependents
@@ -85,6 +87,7 @@ January 2016 - July 2017 | Rosslyn, VA
 #### <b>Intermediate Technical Editor</b>
 Contractor at the [Knolls Atomic Power Laboratory](https://navalnuclearlab.energy.gov/knolls-atomic-power-laboratory/)
 April 2014 - January 2016 | Niskayuna, NY
+<br>
 <br>
 <b>KEY PROJECTS</b>
 
@@ -103,6 +106,7 @@ April 2014 - January 2016 | Niskayuna, NY
 ### <font style="color:#EBB9EF">Florida International University (FIU)</font>
 #### <b>Electronic Theses and Dissertations Coordinator</b>
 June 2011 - January 2014 | Miami, FL
+<br>
 <br>
 <b>KEY PROJECTS</b>
 
