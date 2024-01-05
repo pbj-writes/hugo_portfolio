@@ -133,4 +133,4 @@ divider_below = true
 identifier = "blog"
 name = "Blog"
 url = "/blog/"
-weight = 10
+weight = 21
