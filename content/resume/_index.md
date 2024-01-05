@@ -63,7 +63,7 @@ Senior <b>technical writer</b> with DevOps, data science, and QA experience seek
 ---
 
 ### <font style="color:#EBB9EF">Marathon TS</font>
-#### <b>Technical Writer III</b> <font style="font-size:10vw">assigned to the Joint Operational Medicine Information Systems ([JOMIS](https://www.health.mil/Reference-Center/Fact-Sheets/2023/03/23/PEO-DHMS-Fact-Sheet-JOMIS)) program for the Department of Defense</font>
+#### <b>Technical Writer III</b> <font style="font-size:2vw">assigned to the Joint Operational Medicine Information Systems ([JOMIS](https://www.health.mil/Reference-Center/Fact-Sheets/2023/03/23/PEO-DHMS-Fact-Sheet-JOMIS)) program for the Department of Defense</font>
 <p>January 2016 - July 2017 | Rosslyn, VA</p>
 <b>KEY PROJECTS</b>
 
