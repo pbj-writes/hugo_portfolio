@@ -4,7 +4,6 @@ title: "Blog"
 paige:
   style: |
     #paige-authors,
-    #paige-credit,
     #paige-date,
     #paige-keywords,
     #paige-reading-time,
