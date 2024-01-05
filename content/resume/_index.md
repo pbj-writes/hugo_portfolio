@@ -79,11 +79,11 @@ Senior <b>technical writer</b> with DevOps, data science, and QA experience seek
 
 ### <font style="color:#EBB9EF">Bechtel Marine Propulsion Corporation (BMPC)</font>
 
-#### <b>Intermediate Technical Editor</b> <font style="font-size:0.75vw">contractor at the [Knolls Atomic Power Laboratory](https://navalnuclearlab.energy.gov/knolls-atomic-power-laboratory/)</font>
+#### <b>Intermediate Technical Editor</b> <font style="font-size:0.75vw">contractor at the [Knolls Atomic Power Laboratory](https://navalnuclearlab.energy.gov/knolls-atomic-power-laboratory/) for a Navy and Department of Energy contract</font>
 <p></p>April 2014 - January 2016 | Niskayuna, NY</p>
 <b>KEY PROJECTS</b>
 
-- Managed Reactor Plant Manual (RPM) revision cycle using an XML authoring tool for an active construction submarine fleet on a Navy and Department of Energy contract as the single point of contact
+- Managed Reactor Plant Manual (RPM) revision cycle using an XML authoring tool for an active construction submarine fleet as the single point of contact
 - Led initiative to replace a legacy database with an Oracle<sup>®</sup> 11g database enabled with expanded read/write permissions, a reporting tool, a data auditing tool, and improved usability as assessed by rigorous user testing
 - Established and enforced data entry best practices to maintain data integrity to accommodate submarine milestones
 - Performed routine data cleansing to maintain interoperability between legacy and new data
