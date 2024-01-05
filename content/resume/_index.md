@@ -58,12 +58,12 @@ Senior <b>technical writer</b> with DevOps, data science, and QA experience seek
 - Gained team buy-in for Jira by taking the initiative to drive scrum and planning meetings until team leaders felt comfortable driving meetings with the tool
 - Recognized by a team Program Director: …able to quickly grasp and adapt to the Xpress (Insight) delivery methodology (Jira, SVN, Git), supporting in all stages of the project, including assisting with testing and training the end-users…This award is a recognition of commitment and enthusiasm that PBJ brings to the team.
 - Recognized by a team Technical Architect: …contributions to creating excellent and informative documentation for the Xpress-based solutions delivered to clients…In addition, PBJ has taken ownership of managing the Jira projects and volunteered to put together extensive ‘How to’ guides for using Bitbucket, Jira, Docker, etc.
-- Recognized by a team developer: PBJ is an ideal team-player, always making you feel important, and always leaning forward. His desire to improve existing processes and move our documentation and testing procedures into the future has been a major factor in FICO’s success.
+- Recognized by a team developer: PBJ is an ideal team player, always making you feel important, and always leaning forward. His desire to improve existing processes and move our documentation and testing procedures into the future has been a major factor in FICO’s success.
 
 ---
 
 ### <font style="color:#EBB9EF">Marathon TS</font>
-#### <b>Technical Writer III</b> assigned to the Joint Operational Medicine Information Systems ([JOMIS](https://www.health.mil/Reference-Center/Fact-Sheets/2023/03/23/PEO-DHMS-Fact-Sheet-JOMIS)) program for the Department of Defense
+#### <b>Technical Writer III</b> <font style="font-size:10vw">assigned to the Joint Operational Medicine Information Systems ([JOMIS](https://www.health.mil/Reference-Center/Fact-Sheets/2023/03/23/PEO-DHMS-Fact-Sheet-JOMIS)) program for the Department of Defense</font>
 <p>January 2016 - July 2017 | Rosslyn, VA</p>
 <b>KEY PROJECTS</b>
 
