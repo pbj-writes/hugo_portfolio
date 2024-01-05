@@ -1,4 +1,4 @@
 ---
 description: "Musings on cycling."
-title: "Cycling"
+title: "cycling"
 ---
