@@ -1,8 +1,17 @@
 ---
 paige:
+  feed:
+    hide_page: true
+  search:
+    hide_page: true
   style: |
     #paige-title {
         font-size: 5rem;
+    }
+     #paige-collections,
+    #paige-sections,
+    #paige-pages {
+        display: none;
     }
   color: "#6831f5"
 title: "PBJ Writes ✍🏻"
