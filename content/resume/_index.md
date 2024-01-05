@@ -67,8 +67,8 @@ July 2017 - June 2021 | San Rafael, CA / Fairfax, VA
 
 ### <font style="color:#EBB9EF">Marathon TS</font>
 #### <b>Technical Writer III</b>
-<p>Assigned to the Joint Operational Medicine Information Systems ([JOMIS](https://www.health.mil/Reference-Center/Fact-Sheets/2023/03/23/PEO-DHMS-Fact-Sheet-JOMIS)) program for the Department of Defense</p>
-January 2016 - July 2017 | Rosslyn, VA
+Assigned to the Joint Operational Medicine Information Systems ([JOMIS](https://www.health.mil/Reference-Center/Fact-Sheets/2023/03/23/PEO-DHMS-Fact-Sheet-JOMIS)) program for the Department of Defense
+<p></p>January 2016 - July 2017 | Rosslyn, VA</p>
 <br>
 <br>
 <b>KEY PROJECTS</b>
@@ -85,8 +85,8 @@ January 2016 - July 2017 | Rosslyn, VA
 ### <font style="color:#EBB9EF">Bechtel Marine Propulsion Corporation (BMPC)</font>
 
 #### <b>Intermediate Technical Editor</b>
-<p>Contractor at the [Knolls Atomic Power Laboratory](https://navalnuclearlab.energy.gov/knolls-atomic-power-laboratory/)</p>
-April 2014 - January 2016 | Niskayuna, NY
+Contractor at the [Knolls Atomic Power Laboratory](https://navalnuclearlab.energy.gov/knolls-atomic-power-laboratory/)
+<p></p>April 2014 - January 2016 | Niskayuna, NY</p>
 <br>
 <br>
 <b>KEY PROJECTS</b>
