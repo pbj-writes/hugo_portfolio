@@ -26,6 +26,7 @@ Senior <b>technical writer</b> with DevOps, data science, and QA experience seek
 ## <font style="color:#6831f5">Experience</font>
 
 ### <font style="color:#EBB9EF">FICO</font> 
+
 #### <b>Lead Technical Writer</b>
 June 2021 - present | Los Angeles, CA
 <br>
@@ -66,7 +67,9 @@ July 2017 - June 2021 | San Rafael, CA / Fairfax, VA
 ---
 
 ### <font style="color:#EBB9EF">Marathon TS</font>
-Assigned to the Joint Operational Medicine Information Systems ([JOMIS](https://www.health.mil/Reference-Center/Fact-Sheets/2023/03/23/PEO-DHMS-Fact-Sheet-JOMIS)) program for the Department of Defense<br>
+Assigned to the Joint Operational Medicine Information Systems ([JOMIS](https://www.health.mil/Reference-Center/Fact-Sheets/2023/03/23/PEO-DHMS-Fact-Sheet-JOMIS)) program for the Department of Defense
+
+#### <b>Technical Writer III</b>
 January 2016 - July 2017 | Rosslyn, VA
 <br>
 <br>
@@ -82,7 +85,9 @@ January 2016 - July 2017 | Rosslyn, VA
 ---
 
 ### <font style="color:#EBB9EF">Bechtel Marine Propulsion Corporation (BMPC)</font>
-Contractor at the [Knolls Atomic Power Laboratory](https://navalnuclearlab.energy.gov/knolls-atomic-power-laboratory/)<br>
+Contractor at the [Knolls Atomic Power Laboratory](https://navalnuclearlab.energy.gov/knolls-atomic-power-laboratory/)
+
+#### <b>Intermediate Technical Editor</b>
 April 2014 - January 2016 | Niskayuna, NY
 <br>
 <br>
@@ -101,6 +106,7 @@ April 2014 - January 2016 | Niskayuna, NY
 ---
 
 ### <font style="color:#EBB9EF">Florida International University (FIU)</font>
+#### <b>Electronic Theses and Dissertations Coordinator</b>
 June 2011 - January 2014 | Miami, FL
 <br>
 <br>
@@ -120,7 +126,7 @@ June 2011 - January 2014 | Miami, FL
 ---
 
 ## <font style="color:#6831f5">Education</font>
-### ![SU LOGO](../../assets/syracuse_logo.png) <font style="color:#EBB9EF">Syracuse University 🍊</font>
+### <font style="color:#EBB9EF">Syracuse University 🍊</font>
 <p><b>Certificate of Advanced Study in Digital Libraries</b></p>
 <p><b>M.S. Library and Information Science</b></p>
 
