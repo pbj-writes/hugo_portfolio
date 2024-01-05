@@ -134,3 +134,6 @@ weight = 21
 
 [taxonomies]
 series = "series"
+
+[permalinks]
+blog = "/:year/:month/:day/:title/"
