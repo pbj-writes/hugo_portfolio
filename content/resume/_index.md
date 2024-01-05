@@ -28,14 +28,13 @@ Senior <b>technical writer</b> with DevOps, data science, and QA experience seek
 ### <font style="color:#EBB9EF">FICO</font> 
 
 #### <b>Lead Technical Writer</b>
-June 2021 - present | Los Angeles, CA
-<br>
-<br>
+<p>June 2021 - present | Los Angeles, CA</p>
 <b>KEY PROJECTS</b>
+
 - Write documentation for the cutting-edge cloud-based [FICO<sup>®</sup> Platform](https://www.fico.com/en/fico-platform)
 - Wrote documentation for the [FICO<sup>®</sup> Identity Resolution Engine](https://www.fico.com/en/latest-thinking/solution-sheet/fico-identity-resolution-engine) and [FICO<sup>®</sup> Application Fraud Manager](https://www.fico.com/en/solutions/application-fraud) products 
 - Chair the technical publications and localization department's process committee since March 2022
-
+<p></p>
 <b>ACCOMPLISHMENTS</b>
 
 - Shipped help docs for ```three``` major releases and several hotfixes for multiple products since June 2021
@@ -44,16 +43,14 @@ June 2021 - present | Los Angeles, CA
 - Represented technical publications and localization at a workshop to determine FICO needs to transition to GitHub, a new DevOps model, and doc as code 
 
 #### <b>Technical Writer</b> -> <b>Lead Technical Writer</b>
-July 2017 - June 2021 | San Rafael, CA / Fairfax, VA
-<br>
-<br>
+<p>July 2017 - June 2021 | San Rafael, CA / Fairfax, VA</p>
 <b>KEY PROJECTS</b>
 
 - Wrote design, user, and training documentation for [optimization](https://www.fico.com/en/products/fico-xpress-optimization) software deliveries on rapid client-defined timelines as part of small software delivery teams
 - Authored SOPs for internal team processes and tool adoption (e.g., code spellcheck checklist, Getting Started with Bitbucket, Getting Started with Docker, Managing Jenkins, and more)
 - Participated with the FICO Tech Pubs group to improve processes, test new documentation portal system, and test CMS upgrade from SDL Live Content Architect (2014) to SDL Tridion Docs (2020)
 - Executed DevOps tasks (Docker, Jenkins, Jira, cloud server management, and user access)
-
+<p></p>
 <b>ACCOMPLISHMENTS</b>
 
 - Wrote and delivered ```11``` user documentation help sets on aggressive schedules
@@ -66,36 +63,31 @@ July 2017 - June 2021 | San Rafael, CA / Fairfax, VA
 ---
 
 ### <font style="color:#EBB9EF">Marathon TS</font>
-#### <b>Technical Writer III</b>
-Assigned to the Joint Operational Medicine Information Systems ([JOMIS](https://www.health.mil/Reference-Center/Fact-Sheets/2023/03/23/PEO-DHMS-Fact-Sheet-JOMIS)) program for the Department of Defense
-<p></p>January 2016 - July 2017 | Rosslyn, VA</p>
-<br>
-<br>
+#### <b>Technical Writer III</b> assigned to the Joint Operational Medicine Information Systems ([JOMIS](https://www.health.mil/Reference-Center/Fact-Sheets/2023/03/23/PEO-DHMS-Fact-Sheet-JOMIS)) program for the Department of Defense
+<p>January 2016 - July 2017 | Rosslyn, VA</p>
 <b>KEY PROJECTS</b>
 
 - Created and managed project plans and allocated engineering resources to develop an Android-compatible mobile application that collects patient data and integrates into Army mobile devices as part of a multi-billion-dollar defense contract to acquire a new electronic health record system for millions of active-duty military members and their dependents
 - Leveraged information system expertise to collaborate with engineering teams to address a problem that only 10% of deployed military member patient data is currently captured and retained in permanent health records which correlates to low health outcomes for veterans
 - Provided analysis and documentation of a technology transition plan that details how electronic health record system functional gaps are mitigated with technologies acquired from external sources and developmental organizations
-
+<p></p>
 <b>ACCOMPLISHMENTS</b>
+
 - Recognized by Contract Program Manager for superior support to the engineering team, the Mobile computing capability Memorandum of Understanding, and technical writing support to the Test and Evaluation Master Plan
 
 ---
 
 ### <font style="color:#EBB9EF">Bechtel Marine Propulsion Corporation (BMPC)</font>
 
-#### <b>Intermediate Technical Editor</b>
-Contractor at the [Knolls Atomic Power Laboratory](https://navalnuclearlab.energy.gov/knolls-atomic-power-laboratory/)
+#### <b>Intermediate Technical Editor</b> contractor at the [Knolls Atomic Power Laboratory](https://navalnuclearlab.energy.gov/knolls-atomic-power-laboratory/)
 <p></p>April 2014 - January 2016 | Niskayuna, NY</p>
-<br>
-<br>
 <b>KEY PROJECTS</b>
 
 - Managed Reactor Plant Manual (RPM) revision cycle using an XML authoring tool for an active construction submarine fleet on a Navy and Department of Energy contract as the single point of contact
 - Led initiative to replace a legacy database with an Oracle<sup>®</sup> 11g database enabled with expanded read/write permissions, a reporting tool, a data auditing tool, and improved usability as assessed by rigorous user testing
 - Established and enforced data entry best practices to maintain data integrity to accommodate submarine milestones
 - Performed routine data cleansing to maintain interoperability between legacy and new data
-
+<p></p>
 <b>ACCOMPLISHMENTS</b>
 
 - Earned the most active and complex technical manual assignment as Lead Editor after ```three``` months of employment
@@ -106,15 +98,13 @@ Contractor at the [Knolls Atomic Power Laboratory](https://navalnuclearlab.energ
 ### <font style="color:#EBB9EF">Florida International University (FIU)</font>
 #### <b>Electronic Theses and Dissertations Coordinator</b>
 June 2011 - January 2014 | Miami, FL
-<br>
-<br>
-<b>KEY PROJECTS</b>
+<p><b>KEY PROJECTS</b></p>
 
 - Designed and implemented FIU's Electronic Thesis and Dissertation ([ETD](https://library.fiu.edu/etd)) program
 - Analyzed metrics such as editorial errors, YouTube views, ETD page views, and ETD template downloads over time to track the success of varying student resource types, publication timing, and other factors, to identify gaps in the ETD training program
 - Engaged 400+ graduate students through YouTube screencasts and online and in-person seminars
 - Reviewed 50 ETDs of graduate students per semester to provide feedback on compliance with publication standards
-
+<p></p>
 <b>ACCOMPLISHMENTS</b>
 
 - Decreased ETD draft submission errors by ```47%``` through corrective measures executed after the discovery of training gaps from data analysis
