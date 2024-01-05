@@ -3,10 +3,22 @@ description: "PBJ Writes Blog"
 title: "Blog"
 paige:
   style: |
-    #paige-title {
-        font-size: 5rem;
-    },
+    #paige-authors,
+    #paige-credit,
+    #paige-date,
+    #paige-keywords,
+    #paige-reading-time,
     #paige-series,
-    .paige-series
+    #paige-toc,
+    .paige-authors,
+    .paige-date,
+    .paige-date-header,
+    .paige-keywords,
+    .paige-reading-time,
+    .paige-series,
+    .paige-summary {
+        display: block;
+    } 
   color: "#6831f5"
 ---
+  
