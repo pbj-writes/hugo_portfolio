@@ -79,7 +79,7 @@ Senior <b>technical writer</b> with DevOps, data science, and QA experience seek
 
 ### <font style="color:#EBB9EF">Bechtel Marine Propulsion Corporation (BMPC)</font>
 
-#### <b>Intermediate Technical Editor</b> contractor at the [Knolls Atomic Power Laboratory](https://navalnuclearlab.energy.gov/knolls-atomic-power-laboratory/)
+#### <b>Intermediate Technical Editor</b> <font style="font-size:0.75vw">contractor at the [Knolls Atomic Power Laboratory](https://navalnuclearlab.energy.gov/knolls-atomic-power-laboratory/)</font>
 <p></p>April 2014 - January 2016 | Niskayuna, NY</p>
 <b>KEY PROJECTS</b>
 
