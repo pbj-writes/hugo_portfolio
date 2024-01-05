@@ -46,6 +46,7 @@ June 2021 - present | Los Angeles, CA
 #### <b>Technical Writer</b> -> <b>Lead Technical Writer</b>
 July 2017 - June 2021 | San Rafael, CA / Fairfax, VA
 <br>
+<br>
 <b>KEY PROJECTS</b>
 
 - Wrote design, user, and training documentation for [optimization](https://www.fico.com/en/products/fico-xpress-optimization) software deliveries on rapid client-defined timelines as part of small software delivery teams
