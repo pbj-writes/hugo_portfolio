@@ -120,7 +120,7 @@ June 2011 - January 2014 | Miami, FL
 ---
 
 ## <font style="color:#6831f5">Education</font>
-### <font style="color:#EBB9EF">Syracuse University 🍊</font>
+### ![SU LOGO](../../assets/syracuse_logo.png) <font style="color:#EBB9EF">Syracuse University 🍊</font>
 <p><b>Certificate of Advanced Study in Digital Libraries</b></p>
 <p><b>M.S. Library and Information Science</b></p>
 
