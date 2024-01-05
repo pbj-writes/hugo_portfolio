@@ -30,7 +30,6 @@ Senior <b>technical writer</b> with DevOps, data science, and QA experience seek
 #### <b>Lead Technical Writer</b>
 June 2021 - present | Los Angeles, CA
 <br>
-<br>
 <b>KEY PROJECTS</b>
 
 - Write documentation for the cutting-edge cloud-based [FICO<sup>®</sup> Platform](https://www.fico.com/en/fico-platform)
@@ -46,7 +45,6 @@ June 2021 - present | Los Angeles, CA
 
 #### <b>Technical Writer</b> -> <b>Lead Technical Writer</b>
 July 2017 - June 2021 | San Rafael, CA / Fairfax, VA
-<br>
 <br>
 <b>KEY PROJECTS</b>
 
@@ -67,11 +65,9 @@ July 2017 - June 2021 | San Rafael, CA / Fairfax, VA
 ---
 
 ### <font style="color:#EBB9EF">Marathon TS</font>
-Assigned to the Joint Operational Medicine Information Systems ([JOMIS](https://www.health.mil/Reference-Center/Fact-Sheets/2023/03/23/PEO-DHMS-Fact-Sheet-JOMIS)) program for the Department of Defense
-
 #### <b>Technical Writer III</b>
+Assigned to the Joint Operational Medicine Information Systems ([JOMIS](https://www.health.mil/Reference-Center/Fact-Sheets/2023/03/23/PEO-DHMS-Fact-Sheet-JOMIS)) program for the Department of Defense
 January 2016 - July 2017 | Rosslyn, VA
-<br>
 <br>
 <b>KEY PROJECTS</b>
 
@@ -85,11 +81,10 @@ January 2016 - July 2017 | Rosslyn, VA
 ---
 
 ### <font style="color:#EBB9EF">Bechtel Marine Propulsion Corporation (BMPC)</font>
-Contractor at the [Knolls Atomic Power Laboratory](https://navalnuclearlab.energy.gov/knolls-atomic-power-laboratory/)
 
 #### <b>Intermediate Technical Editor</b>
+Contractor at the [Knolls Atomic Power Laboratory](https://navalnuclearlab.energy.gov/knolls-atomic-power-laboratory/)
 April 2014 - January 2016 | Niskayuna, NY
-<br>
 <br>
 <b>KEY PROJECTS</b>
 
@@ -108,7 +103,6 @@ April 2014 - January 2016 | Niskayuna, NY
 ### <font style="color:#EBB9EF">Florida International University (FIU)</font>
 #### <b>Electronic Theses and Dissertations Coordinator</b>
 June 2011 - January 2014 | Miami, FL
-<br>
 <br>
 <b>KEY PROJECTS</b>
 
