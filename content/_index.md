@@ -1,4 +1,6 @@
 ---
+keywords:
+- blog
 paige:
   feed:
     hide_page: true
