@@ -1,6 +1,5 @@
 ---
-paige:
-  color: "#6831f5"
+
 ---
 Granted these are from the time of different screen sizes and at least seven years old but I worked with what I had at a public university to create instructions for graduate students to aid in the formatting and submission of electronic theses and dissertations (ETD).
 
