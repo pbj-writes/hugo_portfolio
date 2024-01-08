@@ -1,5 +1,5 @@
 ---
-date: "2024-01-05"
+date: "2024-01-07"
 description: "Ways to overcome weight anxiety and obsession."
 paige:
   file_link:
@@ -33,9 +33,9 @@ title: "Struggling with Zwift Weight"
 
 <p>Okay? So, what? Well, my Fitbit scale doesn't update my Strava profile weight. I know, I'm a lil McLooney, but, c'mon, I'm a creature of habit and consistency. If I can't control the quality of my data, then how can I trust the data? Anyway, I did a little digging. Fitbit has a robust API and Strava has a robust API, but there's just not a free application for doing what Fitbit and Zwift are doing. I did some digging. Some people are using some paid apps as a third party to update their Strava profile weight with their Fitbit scales, but I want to know why. Can't this work directly? The answer is yes.</p>
 
-<p>I set myself with a Fitbit developer account and a Strava developer account. I retrieved my weight from Fitbit using their API. Then I pushed my weight to Strava using their API. I've thought about developing this application myself, but I need to overcome a few road blocks to move forward.</p>
+<p>I set myself with a Fitbit developer account and a Strava developer account. I retrieved my weight from Fitbit using their API. Then I pushed my weight to Strava using their API. I've thought about developing this application myself, but I need to overcome a few roadblocks to move forward.</p>
 
 - I need to understand token management. For instance, how can I renew access tokens so that the Strava and Fitbit application stays authenticated? How do I store/manage tokens as a developer pleeb?
 - I need to script a conversion of the weight. I believe the weight data that I retrieved from Fitbit is different than what Strava accepts.
 
-<p>I can't promise that I'll be less obsessed, but I can promise to post and update once I make some more progress.</p>
+<p>I can't promise that I'll be less obsessed, but I can promise to post an update once I make some more progress.</p>
