@@ -11,10 +11,7 @@ paige:
         font-size: 5rem;
     }
     #paige-collections,
-    #paige-sections,
-    #paige-pages {
-        display: none;
-    }
+    #paige-sections
   color: "#6831f5"
 title: "PBJ Writes ✍🏻"
 ---
