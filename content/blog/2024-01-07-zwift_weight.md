@@ -4,6 +4,7 @@ description: "Ways to overcome weight anxiety and obsession."
 paige:
   file_link:
     disable: false
+  color: "#6831f5"
   style: |
     #paige-authors,
     #paige-credit,
