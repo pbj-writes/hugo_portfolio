@@ -42,6 +42,7 @@ By college, I knew that my basketball path was over, and I transitioned into tri
 | ----------- | ----------- |
 |<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="7372928371"></div><script src="https://strava-embeds.com/embed.js"></script>|<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9545883836"></div><script src="https://strava-embeds.com/embed.js"></script>|
 |<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="1890504114"></div><script src="https://strava-embeds.com/embed.js"></script>|<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="5582091860"></div><script src="https://strava-embeds.com/embed.js"></script>
-|<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="6409227298"></div><script src="https://strava-embeds.com/embed.js"></script>  |<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="7638295384"></div><script src="https://strava-embeds.com/embed.js"></script>        |
+|<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="6409227298"></div><script src="https://strava-embeds.com/embed.js"></script>  |<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="7638295384"></div><script src="https://strava-embeds.com/embed.js"></script>|
+||<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10080211089" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>|
 </details>
 <br>
