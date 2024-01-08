@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-description: "List o' posts"
+description: "Musings on sport, writing, and life."
 paige:
   color: "#6831f5"
 ---
