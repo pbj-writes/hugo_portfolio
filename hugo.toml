@@ -7,8 +7,12 @@ theme = 'paige'
 titlecasestyle = "Go"
 enablerobotstxt = true
 
-[outputs]
-home = ["html", "json", "rss"]
+[params.paige]
+color = "#6831f5"
+external_link_new_tab = true
+
+[params.paige.menu]
+style = "tabs" # Must be "links", "pills", "tabs", or "underline"
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -137,3 +141,19 @@ series = "series"
 
 [permalinks]
 blog = "/:year/:month/:day/:title/"
+
+[outputs]
+home = ["html", "json", "rss"]
+section = ["html", "rss"]
+taxonomy = ["html", "rss"]
+
+[[module.imports]]
+path = "github.com/pbj-writes/hugo_portfolio"
+
+[params.paige.git]
+commit_url = "https://github.com/pbj-writes/hugo_portfolio/commit/%s"
+
+[params.paige.file_link]
+content = "Edit this page"
+disable = true
+url = "https://github.com/pbj-writes/hugo_portfolio/edit/main/content/%s"

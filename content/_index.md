@@ -12,7 +12,6 @@ paige:
     }
     #paige-collections,
     #paige-sections
-  color: "#6831f5"
 title: "PBJ Writes ✍🏻"
 ---
 <br>

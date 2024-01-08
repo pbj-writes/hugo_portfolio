@@ -1,6 +1,5 @@
 ---
-paige:
-  color: "#6831f5"
+
 ---
 <script src= '/js/pdf-js/build/pdf.js'></script>
 # Word Templates

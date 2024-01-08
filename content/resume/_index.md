@@ -1,6 +1,5 @@
 ---
-paige:
-  color: "#6831f5"
+
 ---
 <html>
 <head>
@@ -18,14 +17,14 @@ th, td {
 </style>
 </head>
 
-## <font style="color:#6831f5">Summary</font>
+## Summary
 Senior <b>technical writer</b> with DevOps, data science, and QA experience seeking a company that aspires to change the world through innovation and sustainability.
 
 ---
 
-## <font style="color:#6831f5">Experience</font>
+## Experience
 
-### <font style="color:#EBB9EF">FICO</font> 
+### FICO
 
 #### <b>Lead Technical Writer</b>
 <p>June 2021 - present | Los Angeles, CA</p>
@@ -62,7 +61,7 @@ Senior <b>technical writer</b> with DevOps, data science, and QA experience seek
 
 ---
 
-### <font style="color:#EBB9EF">Marathon TS</font>
+### Marathon TS
 #### <b>Technical Writer III</b> <font style="font-size:0.75vw">assigned to the Joint Operational Medicine Information Systems ([JOMIS](https://www.health.mil/Reference-Center/Fact-Sheets/2023/03/23/PEO-DHMS-Fact-Sheet-JOMIS)) program for the Department of Defense</font>
 <p>January 2016 - July 2017 | Rosslyn, VA</p>
 <b>KEY PROJECTS</b>
@@ -77,7 +76,7 @@ Senior <b>technical writer</b> with DevOps, data science, and QA experience seek
 
 ---
 
-### <font style="color:#EBB9EF">Bechtel Marine Propulsion Corporation (BMPC)</font>
+### Bechtel Marine Propulsion Corporation (BMPC)
 
 #### <b>Intermediate Technical Editor</b> <font style="font-size:0.75vw">contractor at the [Knolls Atomic Power Laboratory](https://navalnuclearlab.energy.gov/knolls-atomic-power-laboratory/) for a Navy and Department of Energy contract</font>
 <p></p>April 2014 - January 2016 | Niskayuna, NY</p>
@@ -95,7 +94,7 @@ Senior <b>technical writer</b> with DevOps, data science, and QA experience seek
 
 ---
 
-### <font style="color:#EBB9EF">Florida International University (FIU)</font>
+### Florida International University (FIU)
 #### <b>Electronic Theses and Dissertations Coordinator</b>
 June 2011 - January 2014 | Miami, FL
 <p><b>KEY PROJECTS</b></p>
@@ -113,17 +112,17 @@ June 2011 - January 2014 | Miami, FL
 
 ---
 
-## <font style="color:#6831f5">Education</font>
-### <font style="color:#EBB9EF">Syracuse University 🍊</font>
+## Education
+### Syracuse University 🍊
 <p><b>Certificate of Advanced Study in Digital Libraries</b></p>
 <p><b>M.S. Library and Information Science</b></p>
 
-### <font style="color:#EBB9EF">State University of New York at Cortland 🐲</font>
+### State University of New York at Cortland 🐲
 <p><b>B.A. Professional Writing and Social Philosophy</b></p>
 
 ---
 
-## <font style="color:#6831f5">Technical Skills</font>
+## Technical Skills
 
 |<b>TOOL GROUP</b>|<b>TOOLS</b>|
 |-|-|
@@ -135,5 +134,5 @@ June 2011 - January 2014 | Miami, FL
 
 ---
 
-## <font style="color:#6831f5">Contact</font>
+## Contact
 pbj dot writes at gmail dot com
