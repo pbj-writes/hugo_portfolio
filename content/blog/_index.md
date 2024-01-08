@@ -1,5 +1,6 @@
 ---
 title: "Blog"
-color: "#6831f5"
+paige:
+  color: "#6831f5"
 ---
   
