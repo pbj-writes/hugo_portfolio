@@ -1,4 +1,6 @@
 ---
+keywords:
+- blog
 paige:
   feed:
     hide_page: true
@@ -8,7 +10,7 @@ paige:
     #paige-title {
         font-size: 5rem;
     }
-     #paige-collections,
+    #paige-collections,
     #paige-sections,
     #paige-pages {
         display: none;
