@@ -1,13 +1,12 @@
 ---
 date: "2024-01-07"
-description: "Ways to overcome weight anxiety and obsession."
+description: "Avoiding weight anxiety and obsession."
 paige:
   file_link:
     disable: false
   color: "#6831f5"
   style: |
     #paige-authors,
-    #paige-credit,
     #paige-date,
     #paige-keywords,
     #paige-reading-time,
