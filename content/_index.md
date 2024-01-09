@@ -12,6 +12,9 @@ paige:
     }
     #paige-collections,
     #paige-sections
+    #paige-pages {
+      display: none
+    }
 title: "PBJ Writes ✍🏻"
 ---
 <br>
