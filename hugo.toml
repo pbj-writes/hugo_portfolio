@@ -33,7 +33,7 @@ weight = 9
 identifier = "mystory"
 name = "My Story"
 url = "/mystory/"
-weight = 22
+weight = 23
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -43,14 +43,14 @@ identifier = "pbjtheathlete"
 name = "PBJ the Athlete"
 parent ="mystory"
 url = "/mystory/pbj_the_athlete"
-weight = 24
+weight = 25
 
 [[languages.en.menu.main]]
 identifier = "pbjtheprofessional"
 name = "PBJ the Professional"
 parent ="mystory"
 url = "/mystory/pbj_the_professional"
-weight = 23
+weight = 24
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -82,7 +82,7 @@ identifier = "bicycle_api_app"
 name = "Bicycle Inventory API App"
 parent = "portfolio"
 url = "/portfolio/bicycle_inventory_api_app/"
-weight = 15.5
+weight = 16
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -92,7 +92,7 @@ identifier = "templates"
 name = "Templates"
 parent = "portfolio"
 url = "/portfolio/word_templates/"
-weight = 16
+weight = 17
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -102,7 +102,7 @@ identifier = "how-to"
 name = "How-to"
 parent = "portfolio"
 url = "/portfolio/how-to/"
-weight = 17
+weight = 18
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -112,7 +112,7 @@ identifier = "video_instructions"
 name = "Video Instructions"
 parent = "portfolio"
 url = "/portfolio/video_instructions/"
-weight = 18
+weight = 19
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -122,7 +122,7 @@ identifier = "editing_samples"
 name = "Editing Samples"
 parent = "portfolio"
 url = "/portfolio/editing_samples/"
-weight = 19
+weight = 20
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -132,7 +132,7 @@ identifier = "diagram_samples"
 name = "Diagram Samples"
 parent = "portfolio"
 url = "/portfolio/diagram_samples/"
-weight = 20
+weight = 21
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -142,7 +142,7 @@ identifier = "style_guide_sample"
 name = "Style Guide Sample"
 parent = "portfolio"
 url = "/portfolio/style_guide_sample/"
-weight = 21
+weight = 22
 
 [[languages.en.menu.main]]
 identifier = "blog"
