@@ -25,7 +25,7 @@ description: "A success and a failure"
 ---
 ## Background
 
-<p>In a summer between years of college. I packed my car and moved two cities down the interstate to work for the New York Public Interest Research Group (NYPIRG).</p>
+<p>In a summer between years of college, I packed my car and moved two cities down the interstate to work for the New York Public Interest Research Group (NYPIRG).</p>
 
 <p>In theory, this was the job for me. I could learn about iniatives that I believed in such as protecting the environment, encouraged recycling, etc.</p>
 
@@ -49,7 +49,7 @@ description: "A success and a failure"
 
 ## Asking for money faux pas
 
-<p>I absolutely didn't want to ask for money at work, but my company has a corporate matching policy, where donations up to $500 are matched dollar for dollar. I decided to email my work department and use the corporate matching policy as a way to ask for a contribution. Drafing this email felt very uncomfortable, so I decided to keep the details tight and even offer for people to donate to other charities; however, my mistake was not anticipating that people in my department knew me, were interested in what my charity is about, then started reaching out and donating while thinking that I had muscularly dystrophy. I was able to raise the rest of my money, but with the unfortunate task of having to explain that I also didn't have muscular dystrophy a couple of times. When I came up with my LinkedIn post, I decided on full transparancy, but my email to my department didn't meet those standards and it caused confusion. </p>
+<p>I absolutely didn't want to ask for money at work, but my company has a corporate matching policy, where donations up to $500 are matched dollar for dollar. I decided to email my work department and use the corporate matching policy as a way to ask for a contribution. Drafing this email felt very uncomfortable, so I decided to keep the details tight and even offer for people to donate to other charities; however, my mistake was not anticipating that people in my department knew me, were interested in what my charity is about, then started reaching out and donating while thinking that I had muscular dystrophy. I was able to raise the rest of my money, but with the unfortunate task of having to explain that I also didn't have muscular dystrophy a couple of times. When I came up with my LinkedIn post, I decided on full transparancy, but my email to my department didn't meet those standards and it caused confusion. </p>
 
 ## The lesson
 
