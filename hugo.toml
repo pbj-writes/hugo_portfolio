@@ -78,6 +78,16 @@ weight = 15
 divider_below = true
 
 [[languages.en.menu.main]]
+identifier = "bicycle_api_app"
+name = "Bicycle Inventory API App"
+parent = "portfolio"
+url = "/portfolio/bicycle_inventory_api_app/"
+weight = 15.5
+
+[languages.en.menu.main.params.paige]
+divider_below = true
+
+[[languages.en.menu.main]]
 identifier = "templates"
 name = "Templates"
 parent = "portfolio"
