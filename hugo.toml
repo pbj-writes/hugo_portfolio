@@ -27,13 +27,13 @@ weight = 10
 identifier = "home"
 name = "Home"
 url = "/"
-weight = 10
+weight = 9
 
 [[languages.en.menu.main]]
 identifier = "mystory"
 name = "My Story"
 url = "/mystory/"
-weight = 20
+weight = 22
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -43,14 +43,14 @@ identifier = "pbjtheathlete"
 name = "PBJ the Athlete"
 parent ="mystory"
 url = "/mystory/pbj_the_athlete"
-weight = 22
+weight = 24
 
 [[languages.en.menu.main]]
 identifier = "pbjtheprofessional"
 name = "PBJ the Professional"
 parent ="mystory"
 url = "/mystory/pbj_the_professional"
-weight = 21
+weight = 23
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -68,17 +68,21 @@ url = "/portfolio/"
 weight = 14
 
 [[languages.en.menu.main]]
-identifier = "portfolio"
-name = "Portfolio"
-url = "/portfolio/"
-weight = 14
+identifier = "bicycle_api"
+name = "Bicycle Inventory API Doc"
+parent = "portfolio"
+url = "https://docs.pbjwrites.info"
+weight = 15
+
+[languages.en.menu.main.params.paige]
+divider_below = true
 
 [[languages.en.menu.main]]
 identifier = "templates"
 name = "Templates"
 parent = "portfolio"
 url = "/portfolio/word_templates/"
-weight = 15
+weight = 16
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -88,7 +92,7 @@ identifier = "how-to"
 name = "How-to"
 parent = "portfolio"
 url = "/portfolio/how-to/"
-weight = 16
+weight = 17
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -98,7 +102,7 @@ identifier = "video_instructions"
 name = "Video Instructions"
 parent = "portfolio"
 url = "/portfolio/video_instructions/"
-weight = 17
+weight = 18
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -108,7 +112,7 @@ identifier = "editing_samples"
 name = "Editing Samples"
 parent = "portfolio"
 url = "/portfolio/editing_samples/"
-weight = 18
+weight = 19
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -118,7 +122,7 @@ identifier = "diagram_samples"
 name = "Diagram Samples"
 parent = "portfolio"
 url = "/portfolio/diagram_samples/"
-weight = 19
+weight = 20
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -128,13 +132,13 @@ identifier = "style_guide_sample"
 name = "Style Guide Sample"
 parent = "portfolio"
 url = "/portfolio/style_guide_sample/"
-weight = 20
+weight = 21
 
 [[languages.en.menu.main]]
 identifier = "blog"
 name = "Blog"
 url = "/blog/"
-weight = 21
+weight = 27
 
 [taxonomies]
 series = "series"
@@ -142,7 +146,7 @@ tag = "tags"
 category = "categories"
 
 [permalinks]
-blog = "/:year/:month/:day/:title/"
+blog = "blog/:year-:month-:day/:title/"
 
 [outputs]
 home = ["html", "json", "rss"]
