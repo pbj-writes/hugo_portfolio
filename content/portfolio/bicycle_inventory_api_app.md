@@ -1,5 +1,7 @@
 ---
-#paige-breadcrumbs
+paige:
+  style: |
+    #paige-breadcrumbs
 ---
 # Bicycle Inventory API App
 > **NOTE**  
