@@ -32,6 +32,7 @@ I'm not a developer so finding how to write some basic APIs was intimidating, bu
 ### SQL
 {{< paige/code
     lang="sql" >}}
+-- create the bicycles table with a few bicycle attributes.
 CREATE TABLE bicycles (
     bicycle_id	SERIAL PRIMARY KEY,
     make varchar(50),
@@ -44,6 +45,7 @@ CREATE TABLE bicycles (
     crank_length varchar(50)
 );
 
+-- add the four road bikes that I've ever owned.
 INSERT INTO bicycles (make, model, groupset, frame_type, frame_size, prime_color, model_year, crank_length)
 VALUES
 ('Specialized', 'Sequoia Sport', 'Shimano Sora', 'aluminum', '60cm', 'silver', '2003', '175mm'),
