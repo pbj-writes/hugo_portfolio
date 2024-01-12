@@ -4,6 +4,3 @@
 [submodule "pbjWrites_portfolio/themes/eternity"]
 	path = pbjWrites_portfolio/themes/eternity
 	url = https://github.com/boratanrikulu/eternity.git
-[submodule "bicycle_api"]
-	path = bicycle_api
-	url = https://github.com/pbj-writes/bicycle_api
