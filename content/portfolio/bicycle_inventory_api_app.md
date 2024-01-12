@@ -1,5 +1,7 @@
 ---
+#paige-breadcrumbs
 ---
+# Bicycle Inventory API App
 > **NOTE**  
 > In progress. I'm working on developing some sweet mermaid skillz to create design and data model diagrams. Also, I'm intending to embed a demo video.
 
