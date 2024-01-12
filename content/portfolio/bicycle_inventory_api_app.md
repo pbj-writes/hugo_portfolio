@@ -1,5 +1,4 @@
 ---
-
 ---
 > **NOTE**  
 > In progress. I'm working on developing some sweet mermaid skillz to create design and data model diagrams. Also, I'm intending to embed a demo video.
@@ -13,7 +12,7 @@ I wanted to gain a deeper understanding of APIs and demonstrate my API doc skill
 I can write SQL but I needed a solution to host my db online in the cloud. I came across [https://elephantsql.com](https://elephantsql.com). They offer to host a limited, but free, Postgres database instance.
 
 ### API server and code platform for APIs
-I'm not a developer so finding how to write some basic APIs was intimidating, but after some next-level internet searching, I found a [step-by-step guide](https://dev.to/fredabod/a-step-by-step-guide-to-using-elephantsql-with-nodejs-and-express-2e9f) for using ElephantSQL with Node.js and Express. 
+I'm not a developer so finding how to write some basic APIs was intimidating, but after some [next-level](../resume/) internet searching, I found a [step-by-step guide](https://dev.to/fredabod/a-step-by-step-guide-to-using-elephantsql-with-nodejs-and-express-2e9f) for using ElephantSQL with Node.js and Express. 
 
 ### IDE
 [Visual Studio Code](https://code.visualstudio.com).
