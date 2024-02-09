@@ -45,7 +45,7 @@ description: "Ironman 70.3 after 17 year hiatus"
 
 <p>The primary problem that I had was hubris. Young and dumb. I thought that I was the shit and that I was going to compete. Don’t forget I lettered three times in three different high school varsity sports (ha!). In my first triathlon, the competing bit went out the window as soon as I started my wave in the pool as I flopped, gasped, and sputtered for 400 meters. </p>
 
-<p>Next, I mounted my old, out of tune, Walmart bike. A few people slowed down to say some crappy thing that basically translated to, “you’re so brave for riding that junker.”</p>
+<p>Next, I mounted my old, out-of-tune, Walmart bike. A few people slowed down to say some crappy thing that basically translated to, “you’re so brave for riding that junker.”</p>
 
 <p>Last, my bread and butter, running. I don’t think that I had done very many bricks that prepared me for this transition. Ouch. When I finished, I was determined. Determined to come back next year and destroy my ghost.</p>
 
@@ -53,9 +53,9 @@ description: "Ironman 70.3 after 17 year hiatus"
 
 ## West Point Triathlon
 
-<p>This time I was able to borrow a friend's old steel road bike. I had one tri under my belt. And I ws going to kick some major Army ass. One element that I vastly underestimated was the open water swim. I struggled mightily in a pool swim lane, and I was absolutely demolished. I finished 528/547. I was slapped and hit and swallowing loads of water. At one point I gave up and did some backstroke. At least 2-3 waves behind me were catching up and passing me. I was demoralized, but I crawled out of the lake and kept going.</p>
+<p>This time I was able to borrow a friend's old steel road bike. I had one tri under my belt. And I ws going to kick some major Army ass. One element that I vastly underestimated was the open-water swim. I struggled mightily in a pool swim lane, and open water was much worse. I was utterly demolished. I finished 528/547. I was slapped and hit and swallowed loads of water. At one point I gave up and did some backstroke. At least 2-3 waves behind me were catching up and passing me. I was demoralized, but I crawled out of the lake and kept going.</p>
 
-<p>My first transition was also a disaster, but I got on the bike and did a lot better than the swim. I blazed through my second transition, and actually kicked a little butt on the run. Overall, I did NOT kick major Army ass. 🤡
+<p>My first transition was also a disaster, but I got on the bike and did a lot better than the swim. I blazed through my second transition and actually kicked a little butt on the run. Overall, I did NOT kick major Army ass. 🤡
 
 ## Train, Train, Train
 
@@ -71,7 +71,7 @@ description: "Ironman 70.3 after 17 year hiatus"
 
 <p>In the pool, I felt incredible. Not Katie Ledecky incredible, but, relative to the previous year, I was a different person.</p>
 
-<p>I got out of the pool feeling great, got on my borrowed road bike, and tore up the road. I pushed so hard that when I got to my transition, I forgot to take of my helmet and started running with it on. There were some snickers, but I was on a mission. I ran the course confidently, but good ol' vokda and pizza came back with a vengeance. I had to pull off in the last mile and dive into some trees. When I crossed the finish line, I had taken something like 15-20 minutes off of my previous time.</p>
+<p>I got out of the pool feeling great, got on my borrowed road bike, and tore up the road. I pushed so hard that when I got to my transition, I forgot to take off my helmet and started running with it on. There were some snickers, but I was on a mission. I ran the course confidently, but good ol' vokda and pizza came back with a vengeance. I had to pull off in the last mile and dive into some trees. When I crossed the finish line, I had taken something like 15-20 minutes off of my previous time.</p>
 
 ## The next 17 years
 <p>The summer after Tri for the Y 2 I bought my first road bike. I was hooked after the adrenaline pumping performance/finish. I kept the training up with the intention to continue, but life happened. I studied abroad. I had a semester of depression. I graduated college and struggled to transition to a new city for graduate school. And so on. I did get a lot more into road cycling, but my best pillar, running, withered.</p>
