@@ -144,6 +144,16 @@ parent = "portfolio"
 url = "/portfolio/style_guide_sample/"
 weight = 22
 
+[languages.en.menu.main.params.paige]
+divider_below = true
+
+[[languages.en.menu.main]]
+identifier = "dita_portfolio"
+name = "Old DITA Example"
+parent = "portfolio"
+url = "https://dita.pbjwrites.info"
+weight = 15
+
 [[languages.en.menu.main]]
 identifier = "blog"
 name = "Blog"
