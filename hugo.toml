@@ -33,7 +33,7 @@ weight = 9
 identifier = "mystory"
 name = "My Story"
 url = "/mystory/"
-weight = 23
+weight = 24
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -43,14 +43,14 @@ identifier = "pbjtheathlete"
 name = "PBJ the Athlete"
 parent ="mystory"
 url = "/mystory/pbj_the_athlete"
-weight = 25
+weight = 26
 
 [[languages.en.menu.main]]
 identifier = "pbjtheprofessional"
 name = "PBJ the Professional"
 parent ="mystory"
 url = "/mystory/pbj_the_professional"
-weight = 24
+weight = 25
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -152,7 +152,7 @@ identifier = "dita_portfolio"
 name = "Old DITA Example"
 parent = "portfolio"
 url = "https://dita.pbjwrites.info"
-weight = 15
+weight = 23
 
 [[languages.en.menu.main]]
 identifier = "blog"
