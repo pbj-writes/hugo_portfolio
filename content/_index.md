@@ -3,17 +3,28 @@ keywords:
 - blog
 paige:
   feed:
-    hide_page: true
+    hide_page: false
   search:
     hide_page: true
   style: |
-    #paige-title {
-        font-size: 5rem;
-    }
+    #paige-authors,
+    #paige-breadcrumbs,
+    #paige-credit,
+    #paige-date,
+    #paige-keywords,
+    #paige-reading-time,
+    #paige-series,
+    #paige-toc,
+    #paige-sections,
     #paige-collections,
-    #paige-sections
-    #paige-pages {
-      display: none
+    .paige-authors,
+    .paige-date,
+    .paige-date-header,
+    .paige-keywords,
+    .paige-reading-time,
+    .paige-series,
+    .paige-summary {
+        display: none;
     }
 title: "PBJ Writes ✍🏻"
 ---
