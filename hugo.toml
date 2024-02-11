@@ -155,9 +155,33 @@ url = "https://dita.pbjwrites.info"
 weight = 23
 
 [[languages.en.menu.main]]
-identifier = "blog"
+identifier = "blog#"
 name = "Blog"
+url = "/blog/#"
+weight = 27
+
+[[languages.en.menu.main]]
+identifier = "blog"
+name = "Browse All"
+parent = "blog#"
 url = "/blog/"
+weight = 27
+
+[languages.en.menu.main.params.paige]
+divider_below = true
+
+[[languages.en.menu.main]]
+identifier = "tags"
+name = "Tags"
+parent = "blog#"
+url = "/tags/"
+weight = 27
+
+[[languages.en.menu.main]]
+identifier = "series"
+name = "Series"
+parent = "blog#"
+url = "/series/"
 weight = 27
 
 [taxonomies]
