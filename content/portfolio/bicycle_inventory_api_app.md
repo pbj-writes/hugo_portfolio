@@ -45,6 +45,23 @@ I'm not a developer so finding how to write some basic APIs was intimidating, bu
 ## Design
 > **TODO**  
 > Learn mermaid and create a design artifact.
+---
+title: Bicycle Intentory DB Table
+---
+erDiagram
+
+    bicycles{
+        bicycle_id SERIAL PK
+        make varchar(50)
+        model varchar(50)
+        groupset varchar(50)
+        frame_type varchar(50)
+        frame_size varchar(50)
+        prime_color varchar(50)
+        model_year int
+        crank_length varchar(50)
+    }
+
 
 ## Data Model
 ### SQL
