@@ -2,3 +2,4 @@
 *.test
 imports.*
 go.*
+.DS_Store
