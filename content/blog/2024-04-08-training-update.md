@@ -10,7 +10,6 @@ paige:
     #paige-keywords,
     #paige-reading-time,
     #paige-series,
-    #paige-toc,
     .paige-authors,
     .paige-date,
     .paige-date-header,
