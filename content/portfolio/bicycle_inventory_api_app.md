@@ -32,7 +32,7 @@ I wanted to gain a deeper understanding of APIs and demonstrate my API doc skill
 ### Database
 I can write SQL but I needed a solution to host my db online in the cloud. I came across [https://elephantsql.com](https://elephantsql.com). They offer to host a limited, but free, Postgres database instance.
 
-> **IMPORTANT**
+> **IMPORTANT**  
 > Elephant SQL announced its [EOL](https://www.elephantsql.com/blog/end-of-life-announcement.html).
 
 ### API server and code platform for APIs
