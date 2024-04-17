@@ -32,6 +32,10 @@ I wanted to gain a deeper understanding of APIs and demonstrate my API doc skill
 ### Database
 I can write SQL but I needed a solution to host my db online in the cloud. I came across [https://elephantsql.com](https://elephantsql.com). They offer to host a limited, but free, Postgres database instance.
 
+> [!IMPORTANT]
+> Elephant SQL announced its [EOL](https://www.elephantsql.com/blog/end-of-life-announcement.html).
+
+
 ### API server and code platform for APIs
 I'm not a developer so finding how to write some basic APIs was intimidating, but after some next-level internet searching, I found a [step-by-step guide](https://dev.to/fredabod/a-step-by-step-guide-to-using-elephantsql-with-nodejs-and-express-2e9f) for using ElephantSQL with Node.js and Express. 
 
