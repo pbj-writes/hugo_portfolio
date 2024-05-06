@@ -21,12 +21,16 @@ paige:
         display: none;
     }
 ---
-# Video Instructions
-
-Granted these are from the time of different screen sizes and at least seven years old but I worked with what I had at a public university to create instructions for graduate students to aid in the formatting and submission of electronic theses and dissertations (ETD).
-
+# Videos
 > **NOTE**  
 > These videos were produced with Camtasia screen capture software.
+
+## Cloud platform feature video
+With direction from a product manager, I created a feature video to embed in our release documentation to market a big, new feature.  
+{{< paige/youtube "Hnz4aAHK-Zs" >}}
+
+## Student training videos
+I created instructions for graduate students to aid in their formatting and submission of electronic theses and dissertations (ETDs).
 
 This video assists students who may not be familiar with Microsoft Word with how to generate a table of contents automatically.
 {{< paige/youtube "0uaNYw0F4rU" >}}
