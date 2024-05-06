@@ -109,7 +109,7 @@ divider_below = true
 
 [[languages.en.menu.main]]
 identifier = "video_instructions"
-name = "Video Instructions"
+name = "Videos"
 parent = "portfolio"
 url = "/portfolio/video_instructions/"
 weight = 19
