@@ -38,10 +38,11 @@ title: "PBJ Writes ✍🏻"
 ---
 <p><font size="5"><center>Cycles 🚲 and Works  🖥️</center></font> </p>
 <br>
+<p><font size="2">Built with code using <a href="https://gohugo.io/">Hugo</a> and theme (<a href="https://themes.gohugo.io/themes/paige/">Paige</a>).</font></p>
+<br>
 <div class="column-gap-3 d-flex display-6 justify-content-center mb-3">
 {{< paige/image link= "https://www.linkedin.com/in/pbjwrites/" maxwidth="2.5rem" src="../assets/li.png" >}} 
 {{< paige/icon class="bi bi-github" name="GitHub" url="https://github.com/pbj-writes" >}}
-{{< paige/image height="3rem" link= "https://zwiftpower.com/profile.php?z=1783696" src="https://zwiftpower.com/zp_logo.png" >}}
 
    <style>
   .strava-badge- { display: inline-block; height: 48px; }
