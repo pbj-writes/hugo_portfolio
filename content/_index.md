@@ -37,8 +37,7 @@ title: "PBJ Writes ✍🏻"
     src="../assets/writing.JPG" >}} 
 ---
 <p><font size="5"><center>Cycles 🚲 and Works  🖥️</center></font> </p>
-<br>
-<p><font size="2"><center>Built with code using <a href="https://gohugo.io/">Hugo</a> and theme (<a href="https://themes.gohugo.io/themes/paige/">Paige</a>).</center></font></p>
+<p><font size="3"><center>Built with code using <a href="https://gohugo.io/">Hugo</a> and theme (<a href="https://themes.gohugo.io/themes/paige/">Paige</a>).</center></font></p>
 <br>
 <div class="column-gap-3 d-flex display-6 justify-content-center mb-3">
 {{< paige/image link= "https://www.linkedin.com/in/pbjwrites/" maxwidth="2.5rem" src="../assets/li.png" >}} 
