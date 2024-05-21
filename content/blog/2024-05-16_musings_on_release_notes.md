@@ -27,7 +27,7 @@ title: "Musings on Release Notes"
 
 ## There isn't a release notes class
 
-In college, my professional writing program didn't include a class on release notes. Why would it! I'm sure this is not uncommon in a lot of technical communication programs. Perhaps release notes are a subject of a class, but how often are release notes the entire class? We face many expectations not covered in our academic experiences. 
+In college, my professional writing program didn't include a class on release notes. Why would it! I'm sure this is not uncommon in a lot of technical communication programs. Perhaps release notes are a subject of a class, but how often are release notes the entire class? In our professional lives, we face many expectations not covered in our academic experiences. Don't get me wrong I've seen books on the subject and
 
 ## Initial lessons
 
@@ -35,4 +35,4 @@ The first time that I was asked to prepare release notes, the project was techni
 
 ## Intermediate lessons
 
-For a time, my initial lessons worked well for me, especially for fixes. Eventually, my initial lessons started to show cracks with new features and enhancements. The problem was if I started an enhancement with "Enhanced..." then I was creating these long meandering sentence monstrosities. My rules were too rigid. 
+For a time, my initial lessons worked well for me, especially for fixes. Eventually, my initial lessons started to show cracks with new features and enhancements. The problem was if I started an enhancement with "Enhanced...", then I created these long meandering sentence monstrosities. My rules were too rigid. 
