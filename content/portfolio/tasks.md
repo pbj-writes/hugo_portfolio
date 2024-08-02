@@ -1,5 +1,6 @@
 ---
 title: "Tasks"
+description: "Install tasks for bicycle tires on a new wheelset."
 paige: 
   style: |
     #paige-toc,
@@ -7,7 +8,6 @@ paige:
     .paige-date,
     .paige-date-header,
     .paige-keywords,
-    .paige-reading-time,
     .paige-series,
     .paige-summary {
         display: block;
@@ -30,8 +30,6 @@ th, td {
 }
 </style>
 </head>
-
-These sample tasks relate to the initial installation of bicycle tires on a new wheelset.
 
 # Tires and Your New DT SWISS R 470 700 C Wheelset
 
