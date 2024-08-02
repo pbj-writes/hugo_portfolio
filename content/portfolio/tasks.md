@@ -10,6 +10,7 @@ paige:
     #paige-series,
     #paige-sections,
     #paige-collections,
+    #paige-toc,
     .paige-authors,
     .paige-date,
     .paige-date-header,
