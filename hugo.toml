@@ -92,7 +92,7 @@ identifier = "templates"
 name = "Templates"
 parent = "portfolio"
 url = "/portfolio/word_templates/"
-weight = 17
+weight = 22
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -112,7 +112,7 @@ identifier = "install_bicycle_tires"
 name = "Tasks"
 parent = "portfolio"
 url = "/portfolio/tasks/"
-weight = 19
+weight = 17
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -122,7 +122,7 @@ identifier = "video_instructions"
 name = "Videos"
 parent = "portfolio"
 url = "/portfolio/video_instructions/"
-weight = 20
+weight = 19
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -142,7 +142,7 @@ identifier = "diagram_samples"
 name = "Diagram Samples"
 parent = "portfolio"
 url = "/portfolio/diagram_samples/"
-weight = 22
+weight = 20
 
 [languages.en.menu.main.params.paige]
 divider_below = true
