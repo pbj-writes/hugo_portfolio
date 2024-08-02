@@ -1,15 +1,6 @@
 ---
 paige: 
   style: |
-    #paige-authors,
-    #paige-breadcrumbs,
-    #paige-credit,
-    #paige-date,
-    #paige-keywords,
-    #paige-reading-time,
-    #paige-series,
-    #paige-sections,
-    #paige-collections,
     #paige-toc,
     .paige-authors,
     .paige-date,
