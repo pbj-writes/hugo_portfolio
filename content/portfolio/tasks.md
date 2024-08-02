@@ -1,4 +1,5 @@
 ---
+title = "Tasks"
 paige: 
   style: |
     #paige-toc,
