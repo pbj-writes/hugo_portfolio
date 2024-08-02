@@ -92,7 +92,7 @@ identifier = "templates"
 name = "Templates"
 parent = "portfolio"
 url = "/portfolio/word_templates/"
-weight = 17
+weight = 22
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -103,6 +103,16 @@ name = "How-to"
 parent = "portfolio"
 url = "/portfolio/how-to/"
 weight = 18
+
+[languages.en.menu.main.params.paige]
+divider_below = true
+
+[[languages.en.menu.main]]
+identifier = "install_bicycle_tires"
+name = "Tasks"
+parent = "portfolio"
+url = "/portfolio/tasks/"
+weight = 17
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -122,7 +132,7 @@ identifier = "editing_samples"
 name = "Editing Samples"
 parent = "portfolio"
 url = "/portfolio/editing_samples/"
-weight = 20
+weight = 21
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -132,7 +142,7 @@ identifier = "diagram_samples"
 name = "Diagram Samples"
 parent = "portfolio"
 url = "/portfolio/diagram_samples/"
-weight = 21
+weight = 20
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -142,7 +152,7 @@ identifier = "style_guide_sample"
 name = "Style Guide Sample"
 parent = "portfolio"
 url = "/portfolio/style_guide_sample/"
-weight = 22
+weight = 23
 
 [languages.en.menu.main.params.paige]
 divider_below = true
@@ -152,7 +162,7 @@ identifier = "dita_portfolio"
 name = "Old DITA Example"
 parent = "portfolio"
 url = "https://dita.pbjwrites.info"
-weight = 23
+weight = 24
 
 [[languages.en.menu.main]]
 identifier = "blog#"
