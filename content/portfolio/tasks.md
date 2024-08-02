@@ -1,6 +1,6 @@
 ---
 title: "Tasks"
-description: "Install content for bicycle tires on a new wheelset."
+description: "Install content for a New DT SWISS R 470 700 C Wheelset."
 paige: 
   style: |
     #paige-toc,
@@ -30,10 +30,6 @@ th, td {
 }
 </style>
 </head>
-
-# Tires and Your New DT SWISS R 470 700 C Wheelset
-
-Factory packaged wheelsets are ready for tire installation.
 
 > **WARNING**  
 > Tire inflation can result in injury. Read all component and tool manufacturer guidance and recommendations before inflating tires.
