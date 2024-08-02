@@ -1,6 +1,6 @@
 ---
 title: "Tasks"
-description: "Install tasks for bicycle tires on a new wheelset."
+description: "Install content for bicycle tires on a new wheelset."
 paige: 
   style: |
     #paige-toc,
