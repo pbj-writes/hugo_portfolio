@@ -8,7 +8,6 @@ paige:
     #paige-keywords,
     #paige-reading-time,
     #paige-series,
-    #paige-toc,
     #paige-sections,
     #paige-collections,
     .paige-authors,
