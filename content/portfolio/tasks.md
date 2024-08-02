@@ -1,6 +1,6 @@
 ---
 paige: 
-title = "Tasks"
+  title = "Tasks"
   style: |
     #paige-toc,
     .paige-authors,
